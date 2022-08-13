@@ -1,0 +1,371 @@
+.column1 {
+    background: #22212C;
+
+}
+
+.column2 {
+    background: #22212C;
+    width: 100%;
+}
+
+.main {
+
+    display: flex;
+    flex-direction: row;
+}
+
+.card1 {
+
+    width: 348px;
+    height: 292px;
+    margin: 40px 20px 30px 40px;
+    background: #302F3D;
+    border-radius: 20px;
+}
+
+.card2 {
+    height: 348px;
+    width: 348px;
+    margin: 40px 20px 30px 40px;
+    background: #302F3D;
+    border-radius: 20px;
+}
+
+.card3 {
+    width: 348px;
+    height: 208px;
+    margin: 40px 20px 30px 40px;
+    background: #302F3D;
+    border-radius: 20px;
+}
+
+.container-icon-text {
+    display: flex;
+    margin: 20px 20px 0px 40px;
+}
+
+.p-icon-text {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    margin-left: 20px;
+    color: #837E9F;
+}
+
+.card-my-projects {
+    height: 100px;
+    display: block;
+    margin: 40px 40px 0px 60px;
+    background: #302F3D;
+    border-radius: 20px;
+
+}
+
+.container-onix {
+    height: 186px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 31px 40px 30px 60px;
+}
+
+.card-onix {
+    width: 461px;
+    height: 186px;
+    background: #302F3D;
+    border-radius: 20px;
+
+}
+
+.card-recent-posts {
+    height: 86px;
+    display: block;
+    margin: 30px 40px 30px 60px;
+    background: #302F3D;
+    border-radius: 20px;
+
+}
+
+.card-post {
+    height: 201px;
+    display: block;
+    margin: 0px 40px 10px 60px;
+    background: #302F3D;
+    border-radius: 20px;
+}
+
+.container-box-tecnologies {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.container-row-tecnlogies {
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+
+.box-tecnologies {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 86px;
+    height: 24px;
+    background: #CB92B1;
+    border-radius: 30px;
+}
+
+.container-column-profile {
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 100%;
+
+}
+
+.column-profile {
+    display: flex;
+    align-items: center;
+    width: 128px;
+    height: 128px;
+    margin: 32px 110px 0px 110px;
+
+}
+
+.p-profile-name {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    margin: auto;
+    text-align: center;
+    color: #837E9F;
+}
+
+.img-profile {
+    width: 128px;
+    height: 128px;
+    box-sizing: border-box;
+    border: 2px solid #00FF00;
+    border-radius: 100px;
+}
+
+.column-profile-name {
+    display: flex;
+    width: 196px;
+    height: 26px;
+    margin: 30px 76px 0px 76px;
+}
+
+.column-profile-profission {
+    display: flex;
+    width: 196px;
+    height: 26px;
+
+    margin: 10px 76px 0px 76px;
+}
+
+.p-title-tecnologies {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    margin: 0px 20px 0px 20px;
+
+    color: #837E9F;
+}
+
+.p-title-projects {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px 20px 0px 20px;
+
+    color: #837E9F;
+}
+
+.p-box-tecnologies {
+    font-family: 'League Spartan', sans-serif;
+    font-weight: 800;
+    font-size: 10px;
+    line-height: 13px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.container-my-projects {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+
+.container-card-onix {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 0px 20px;
+}
+
+.p-onix-title {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 16px;
+    color: #837E9F;
+}
+
+.my-onix-card1 {
+    display: flex;
+
+}
+
+.my-onix-card2 {
+    display: flex;
+}
+
+.my-onix-card3 {
+    display: flex;
+    width: 410px;
+    justify-content: space-between;
+}
+
+.p-onix-text1 {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #837E9F;
+
+}
+
+.p-onix-text2 {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: 10px;
+    color: #837E9F;
+
+}
+
+.star-card {
+    display: flex;
+    width: 186px;
+    justify-content: space-between;
+
+}
+
+.star-align {
+    display: flex;
+    align-items: center;
+}
+
+.box-onix {
+    width: 15px;
+    height: 15px;
+    box-sizing: border-box;
+    background: #E7DE79;
+    border: 2px solid #837E9F;
+    border-radius: 100px;
+}
+
+.container-post-recent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 86px;
+}
+
+.container-post {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+
+}
+
+.column-image-post {
+    display: flex;
+    margin: 30px 0px 40px 40px;
+}
+
+.img-profile-post {
+    width: 128px;
+    height: 128px;
+    box-sizing: border-box;
+    background: #302F3D;
+    border-radius: 100px;
+}
+
+.column-post {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px 0px 40px 20px;
+}
+
+.p-title-post {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 30px 0px 0px 20px;
+
+    color: #837E9F;
+}
+
+.p-date-post {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px 0px 0px 20px;
+
+    color: #837E9F;
+}
+
+.p-post {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 28px 0px 11px 20px;
+
+    color: #837E9F;
+}
+
+.column-genimotion {
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    margin: 11px 0px 0px 20px;
+    justify-content: space-between;
+}
+
+.p-genimotion {
+    font-family: 'League Spartan', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+   
+    color: #837E9F;
+}
